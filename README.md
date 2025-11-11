@@ -1,73 +1,24 @@
-# Welcome to your Lovable project
+# ORBITAL-
+Para sa website tong repo.
 
-## Project info
+🌌 ORBITAL — Online Resource and Bridge for Innovation and Technology for Aerospace Learners
 
-**URL**: https://lovable.dev/projects/4d22a93b-07aa-49d5-ba56-bf52e57bc67f
+ORBITAL is an integrated web platform built to centralize the academic, organizational, and commercial activities of Aerospace Engineering students of Batangas State University.
 
-## How can I edit this code?
+This project serves as a hub for aerospace learners, combining learning resources, community collaboration, 3D model repositories, and interactive exploration tools — all within a modern, aesthetic, and responsive web environment.
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/4d22a93b-07aa-49d5-ba56-bf52e57bc67f) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/4d22a93b-07aa-49d5-ba56-bf52e57bc67f) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+🧭 Project Overview
+Module	Description
+Learning Resource Center	Interactive educational materials and aerospace course modules.
+Community Hub	A collaborative space for sharing 3D models, research, and engineering projects.
+AeroShop (Future)	Marketplace for aerospace kits, models, and merch.
+Event Hub (Future)	Centralized calendar and registration system for aerospace events.
+Instructor & Government Portal (Planned)	Portal for managing course materials, student activities, and research initiatives.
+🛠️ Technologies Used
+Category	Tools / Frameworks
+Frontend Design	Figma (Website Builder)
+Frontend Stack	HTML5, CSS3, JavaScript (Vanilla + TailwindCSS)
+Component System	Custom Web Components (navbar.js, footer.js)
+Hosting	GitHub Pages (initial), Firebase or Vercel (future)
+Database (planned)	MariaDB for community projects, user uploads, and resources
+Backend (planned)	PHP or Node.js for API handling and DB connections
